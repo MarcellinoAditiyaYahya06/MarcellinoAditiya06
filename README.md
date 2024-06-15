@@ -13,3 +13,6 @@ Perangkat yang dibutuhkan untuk project ini adalah:
 
 ![image](https://github.com/MarcellinoAditiyaYahya06/MarcellinoAditiya06/assets/172895496/3da0b87c-7ef9-4908-964f-138b7516a6d0)
 
+Berikut adalah hasilnya:
+![hasil](https://github.com/MarcellinoAditiyaYahya06/MarcellinoAditiya06/assets/172895496/0e7f82c9-6868-48eb-8d8a-c6fc8cf33014)
+
