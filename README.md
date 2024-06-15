@@ -1,4 +1,5 @@
-# MarcellinoAditiya06
+Arduino Ethernet Temperature Monitoring
+
 Ini adalah project dari tugas Matakuliah Internet Of Things
 
 Perangkat yang dibutuhkan untuk project ini adalah:
