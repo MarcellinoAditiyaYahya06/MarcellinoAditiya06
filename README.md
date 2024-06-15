@@ -16,3 +16,10 @@ Perangkat yang dibutuhkan untuk project ini adalah:
 Berikut adalah hasilnya:
 ![hasil](https://github.com/MarcellinoAditiyaYahya06/MarcellinoAditiya06/assets/172895496/0e7f82c9-6868-48eb-8d8a-c6fc8cf33014)
 
+pada bagian hasilnya menunjukan teks yaitu:
+- Server IP: 192.168.67.164
+- Temperatur: 30.27 C
+- Nama: Marcellino Aditiya Yahya
+- NIM: 1462100052
+- Tanggal Lahir: 06 Maret 2002
+- Email: Marcellinoaditiya06@gmail.com
